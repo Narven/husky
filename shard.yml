@@ -1,0 +1,13 @@
+name: husky
+version: 0.1.0
+
+authors:
+  - Pedro Luz <pedromsluz@gmail.com>
+
+targets:
+  husky:
+    main: src/husky.cr
+
+crystal: 1.8.2
+
+license: MIT
